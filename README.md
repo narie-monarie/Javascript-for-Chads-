@@ -1,1 +1,2 @@
-# Javascript-for-Chads-
+# Javascript || React and Express
+- Full Javascript 
