@@ -1,8 +1,11 @@
+import Link from "next/link"
 
-function Nav() {
+export default async function Nav() {
   return (
-    <div>Nav</div>
+    <nav>
+      <Link href={"/"}>
+        <h1>send it</h1>
+      </Link>
+    </nav>
   )
 }
-
-export default Nav
